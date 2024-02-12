@@ -9,7 +9,7 @@ public class ColorTest {
 	
 	Color c;                 // instance variable of color 'c'
 	
-	ColorTest(Color c)
+	ColorTest(Color c)          //Parameterized constructor
 	{
 		this.c=c;
 	}
